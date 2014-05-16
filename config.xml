@@ -2,9 +2,9 @@
 <widget id="es.falbaponce.space" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>SpaceInvaders</name>
     <description>
-        A sample Apache Cordova application that responds to the deviceready event.
+        Primera version de prueba del spaceinvaders
     </description>
-    <author email="dev@cordova.apache.org" href="http://cordova.io">
+    <author email="yo@falbaponce.es" href="http://cordova.io">
         Apache Cordova Team
     </author>
     <content src="index.html" />
