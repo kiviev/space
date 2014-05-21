@@ -16,7 +16,7 @@ var nave={
 
 //crear objeto juego
 var juego={
-	estado:'parado'
+	estado:'iniciando'
 }
 
 // objeto textoRespuesta
